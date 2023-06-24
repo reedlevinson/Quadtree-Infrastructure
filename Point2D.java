@@ -1,7 +1,7 @@
 /**
  * An interface for 2D points
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2016
+ * @author Reed Levinson, Spring 2023
  */
 public interface Point2D {
 	public double getX();

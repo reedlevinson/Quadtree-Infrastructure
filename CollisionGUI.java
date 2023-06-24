@@ -7,13 +7,8 @@ import java.util.ArrayList;
 
 /**
  * Using a quadtree for collision detection
- * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Spring 2015
- * @author CBK, Spring 2016, updated for blobs
- * @author CBK, Fall 2016, using generic PointQuadtree
  *
  * @author Reed Levinson, Spring 2023
- * @partner Evan Lai
  */
 public class CollisionGUI extends DrawingGUI {
 	private static final int width=800, height=600;		// size of the universe

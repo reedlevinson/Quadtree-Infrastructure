@@ -2,7 +2,7 @@
  * A very simple implementation of a class implementing the Point2D interface
  * Called it a "Dot" to distinguish from Point
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Fall 2016
+ * @author Reed Levinson, Spring 2023
  */
 public class Dot implements Point2D {
 	private double x, y;

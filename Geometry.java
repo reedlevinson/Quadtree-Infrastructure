@@ -1,9 +1,7 @@
 /**
  * Geometry helper methods
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Spring 2015
- * @author CBK, Fall 2016, separated from quadtree, instrumented to count calls
- * 
+ * @author Reed Levinson, Spring 2023
  */
 public class Geometry {
 	private static int numInCircleTests = 0;			// keeps track of how many times pointInCircle has been called

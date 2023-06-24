@@ -7,12 +7,7 @@ import javax.swing.*;
  * Driver for interacting with a quadtree:
  * inserting points, viewing the tree, and finding points near a mouse press
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Spring 2015
- * @author CBK, Spring 2016, updated for dots
- * @author CBK, Fall 2016, generics, dots, extended testing
- *
  * @author Reed Levinson, Spring 2023
- * @partner Evan Lai
  */
 public class DotTreeGUI extends DrawingGUI {
 	private static final int width=800, height=600;		// size of the universe
